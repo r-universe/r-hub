@@ -1,10 +1,14 @@
 [
   {
+    "package": "cranlogs",
+    "oncran": true
+  },
+  {
     "package": "cranlike",
     "oncran": true
   },
   {
-    "package": "cranlogs",
+    "package": "rversions",
     "oncran": true
   },
   {
@@ -13,10 +17,6 @@
   },
   {
     "package": "rhub",
-    "oncran": true
-  },
-  {
-    "package": "rversions",
     "oncran": true
   }
 ]

@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cranlogs"]
+	path = cranlogs
+	url = https://github.com/r-hub/cranlogs
+	shallow = true
+	registered = true
 [submodule "cranlike"]
 	path = cranlike
 	url = https://github.com/r-hub/cranlike
 	shallow = true
 	registered = true
-[submodule "cranlogs"]
-	path = cranlogs
-	url = https://github.com/r-hub/cranlogs
+[submodule "rversions"]
+	path = rversions
+	url = https://github.com/r-hub/rversions
 	shallow = true
 	registered = true
 [submodule "pkgsearch"]
@@ -21,10 +26,5 @@
 [submodule "rhub"]
 	path = rhub
 	url = https://github.com/r-hub/rhub
-	shallow = true
-	registered = true
-[submodule "rversions"]
-	path = rversions
-	url = https://github.com/r-hub/rversions
 	shallow = true
 	registered = true
